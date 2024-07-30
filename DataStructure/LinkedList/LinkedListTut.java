@@ -1,4 +1,4 @@
-package DataStructure;
+package DataStructure.LinkedList;
 
 public class LinkedListTut {
     public static void main(String[] args) {
